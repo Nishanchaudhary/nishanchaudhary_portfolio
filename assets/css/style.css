@@ -275,6 +275,7 @@
 
         /* ----- Active Nav Link Styles ----- */
         .nav-link {
+            color:whitesmoke;        
             transition: color 0.3s ease;
             position: relative;
         }
